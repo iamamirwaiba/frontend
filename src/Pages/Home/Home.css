@@ -1,0 +1,12 @@
+.column{
+  color: black;
+}
+
+.display-flex{
+  display: flex;
+  justify-content: space-between;
+}
+.arena-image{
+  z-index: 10000;
+  
+}

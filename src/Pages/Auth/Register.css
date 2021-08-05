@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Arvo&display=swap");
+
+h2 {
+  font-size: 20px;
+}
+.textCenter {
+  border: 1px solid #000000;
+  font-family: "Arvo", Courier, monospace;
+  text-align: center;
+  margin-top: 10vh;
+  margin-left: 30%;
+  margin-right: 30%;
+} 
+
+ .form_signIn {
+  margin: 0 auto;
+  max-width: 450px;
+} 
+
+.form-field {
+  padding: 10px;
+  margin: 5px 0;
+  width: 90%;
+  height: 5vh;
+}
+
+input[type="name"],
+input[type="password"],
+input[type="email"] {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.submit-btn {
+  border-radius: 12px;
+  background-color: #000000;
+  border: none;
+  color: white;
+  width: 70%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.lock {
+  height: 50px;
+  width: 50px;
+} 
+
+.login-icon {
+  height: 50px;
+  width: 50px;
+}
+
+.role {
+  font-size: 15px;
+  color: #000000;
+}
+
+.reg-text {
+  padding: 10px 0 10px 0;
+  color: black;
+  font-size: 20px;
+} 
